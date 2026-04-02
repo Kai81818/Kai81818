@@ -7,9 +7,9 @@
   
 Welcome to my GitHub portfolio! Here are my key projects:
 ## 📂📂 Projects
-| Project | Description | Link |
+| Module | Title | Link |
 |---------|-------------|------|
-| NextGenDataScience | Heat-Related Health Risk Analysis using CO2 Emissions Data | https://github.com/Kai81818/NGDS_Assignment2 |
+| Next Generation Data Science | Heat-Related Health Risk Analysis using CO2 Emissions Data | https://github.com/Kai81818/NGDS_Assignment2 |
 
 <!--
 
